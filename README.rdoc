@@ -1,0 +1,5 @@
+Simple Rails Blog app 
+
+- Rails v 4.1.6
+- Ruby v 2.1.2
+- SQLite3 v 3.x
